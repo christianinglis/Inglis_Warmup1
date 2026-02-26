@@ -17,7 +17,7 @@ button {
 }
 
 button:disabled {
-    backgroud-color: gray;
+    background-color: gray;
 }
 
 .hidden {
